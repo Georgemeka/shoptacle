@@ -3,7 +3,7 @@ import Image from "next/image";
 //Images
 import Search from "@/app/../../public/search.png";
 import User from "@/app/../../public/user.png";
-import Group from "@/app/../../public/group.png";
+import Group from "@/app/../../public/Group.png";
 
 export default function NavBar() {
     return (
