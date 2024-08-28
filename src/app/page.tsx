@@ -110,9 +110,6 @@ export default function Home() {
                         </ul>
 
                         <h2>Follow Us</h2>
-                        <div>
-                            <Image />
-                        </div>
                     </div>
                     <div className="mt-[70px]">
                         <h2 className="text-4xl mb-12">Online Services</h2>
